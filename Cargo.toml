@@ -1,0 +1,11 @@
+[package]
+name = "bounded"
+version = "0.1.0"
+authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
+
+keywords = ["bounded", "primitive", "to", "primitive"]
+description = "bounded trait to get min and max value of a type"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nathanfaucett/rs-bounded.git"
+homepage = "https://github.com/nathanfaucett/rs-bounded"
